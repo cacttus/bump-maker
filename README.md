@@ -1,5 +1,5 @@
 # Bump / Normal map maker.
-Simple tool which allows you to process an image and output a bump or normal map.
+Simple tool which allows you to process an image and output a normal map.
 
 ![Screenshot](https://github.com/metalmario971/bump-maker/blob/master/screenshot.png)
 
